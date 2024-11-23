@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\Prototype1v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|C:\\Users\\adria\\Prototype1v2\\assets\\scripts\\movearrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movearrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|C:\\Users\\adria\\Prototype1v2\\assets\\scripts\\movewsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movewsad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|c:\\users\\adria\\prototype1v2\\assets\\scripts\\camera\\firstcam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\firstcam2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|C:\\Users\\adria\\Prototype1v2\\assets\\scripts\\camera\\camera2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camera2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|C:\\Users\\adria\\Prototype1v2\\assets\\scripts\\camera\\firstcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\firstcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|C:\\Users\\adria\\Prototype1v2\\assets\\scripts\\camera\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17010C19-E2AB-85FC-593C-811E869FE028}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstCam2.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\FirstCam2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\FirstCam2.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\FirstCam2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\FirstCam2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:50:21.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstCam.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\FirstCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\FirstCam.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\FirstCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\FirstCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:49:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera2.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\Camera2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Camera2.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\Camera2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\Camera2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:48:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Camera.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\Camera\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:43:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveArrows.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\MoveArrows.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveArrows.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\MoveArrows.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveArrows.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:29:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveWSAD.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\MoveWSAD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveWSAD.cs",
+              "ToolTip": "C:\\Users\\adria\\Prototype1v2\\Assets\\Scripts\\MoveWSAD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveWSAD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:22:44.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
